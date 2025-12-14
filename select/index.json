@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Maps",
+  "base_artist": "Yeah Yeah Yeahs",
+  "createdAt": "2025-12-14T08:06:24.299128Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maps",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/01_Maps_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Almost Home (Maps Remix)",
+      "artist": "Moby feat. Damien Jurado",
+      "has_synced": false,
+      "path": "select/02_Almost_Home_(Maps_Remix)_Moby_feat._Damien_Jurado.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Almost Home (feat. Damien Jurado) (MAPS Remix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/03_Almost_Home_(feat._Damien_Jurado)_(MAPS_Remix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Own the Sky (Maps mix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/04_We_Own_the_Sky_(Maps_mix)_M83.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Own The Sky - Maps Remix",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/05_We_Own_The_Sky_-_Maps_Remix_M83.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Maps (Michael Mayer & Tobias Thomas mix)",
+      "artist": "ADA",
+      "has_synced": false,
+      "path": "select/06_Maps_(Michael_Mayer_&_Tobias_Thomas_mix)_ADA.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "An Animated Description of Mr. Maps",
+      "artist": "The Books",
+      "has_synced": true,
+      "path": "select/07_An_Animated_Description_of_Mr._Maps_The_Books.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Own The Sky (Maps Remix)",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/08_We_Own_The_Sky_(Maps_Remix)_M83.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lost Maps",
+      "artist": "Marnie",
+      "has_synced": true,
+      "path": "select/09_Lost_Maps_Marnie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lost Maps (John Baillie Jnr Baby Diego Remix Radio Edit)",
+      "artist": "Marnie",
+      "has_synced": false,
+      "path": "select/10_Lost_Maps_(John_Baillie_Jnr_Baby_Diego_Remix_Radio_Edit)_Marnie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Visionary Road Maps",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/11_Visionary_Road_Maps_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Maps",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/12_Maps_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Maps - Live In Manchester",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/13_Maps_-_Live_In_Manchester_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Maps (live in Manchester)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/14_Maps_(live_in_Manchester)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Maps",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Morgan James",
+      "has_synced": true,
+      "path": "select/15_Maps_Scott_Bradlee's_Postmodern_Jukebox_feat._Morgan_James.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Maps",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/16_Maps_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Maps",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": false,
+      "path": "select/pl_01_Maps_Yeah_Yeah_Yeahs.txt"
+    }
+  ]
+}
